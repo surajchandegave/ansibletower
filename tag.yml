@@ -10,4 +10,4 @@
   - name: start service
     service: name=mariadb state=started
     tags:
-    - start
+    - start1
